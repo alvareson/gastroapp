@@ -1,0 +1,35 @@
+{
+"0" : [
+    "n0",
+    "esophagit"
+],
+"1" : [
+    "n1",
+    "polyp"
+],
+"2" : [
+    "n2",
+    "norm-pylorus"
+],
+"3" : [
+    "n3",
+    "dyed-lyft-margin"
+],
+"4" : [
+    "n4",
+    "dyed-resection"
+],
+"5" : [
+    "n5",
+    "ucl-colit"
+],
+"6" : [
+    "n6",
+    "norm-cecum"
+],
+"7" : [
+    "n7",
+    "norm-z-line"
+]
+}
+
